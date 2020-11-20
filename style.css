@@ -1,0 +1,97 @@
+#header ul {
+	display: flex;
+}
+#header ul li a {
+	padding: 0 10px; 
+	text-decoration: none;
+}
+li {
+	list-style: none;
+}
+#wrapper{
+	padding: 30px 0;
+	background-image: url(./asset/image/itb-multikampus.jpg);
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+	height: 300px;
+	width: 100%;
+	background-repeat: no-repeat;
+}
+
+ul li a {
+	color: #fff;
+}
+
+#header {
+	display: flex;
+}
+
+#menu {
+	font-size: 15px;
+}
+.TENTANG{
+	height: 250px;
+	width: auto;
+	padding: 25px;
+	font-size: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.TENTANG p {
+	text-align: center;
+}
+
+.sejarah {
+	width: auto;
+	height: 500px
+	background:#fff;
+	padding: 25px
+}
+
+.sejarah h2 {
+	text-align: center;
+}
+
+.sejarah p {
+	text-align: center;
+	font-size:20px;
+}
+
+.sejarah button {
+	margin: 0 auto;
+}
+
+.linimasa {
+	width: auto;
+	height: 500px
+	background:#fff;
+	padding: 25px
+}
+
+.linimasa h2{
+	text-align: center;
+
+}
+
+.linimasa img {
+	width: 1300px;
+	margin: 0 auto;
+
+}
+.list ul li a{
+	color: #000;
+	text-decoration: none;
+	margin: 10px 0;
+	text-align: left;
+}
+.list ul li {
+	list-style: none;
+}
+footer {
+	padding: 40px 70px;
+	display: flex;
+	justify-content: space-between;
+}
